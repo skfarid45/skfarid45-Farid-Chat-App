@@ -12,6 +12,7 @@
 	<artifactId>chat-app-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>chat-app-backend</name>
+	<packaging>war</packaging>
 	<description>Chat app backend</description>
 	<url/>
 	<licenses>
